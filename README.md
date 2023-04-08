@@ -3,7 +3,7 @@ This a translate for the mod betternether from English-US to Brazilian Portugues
 
 
 Essa é uma tradução para o mod betternether para o idioma Português Brasileiro.
-Essa tradução foi feita com o intuito de agregar para a comunidade. Em nenhum momento fiz houve a inteção
+Essa tradução foi feita com o intuito de agregar para a comunidade. Em nenhum momento houve a inteção
 de prejudicar os desenvolvedores ou algo do tipo.
 
 Fiz a tradução por gostar do mod, e para que outras pessoas que não tenham tanto conhecimento sobre a idioma padrão do mod 
